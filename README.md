@@ -33,5 +33,5 @@ Are you up for the challenge? Test your mathematical prowess and have fun while 
 
 ## Contributing
 
-Written By: **3xjn**
-Hosted By **Medieval Apple**
+- Written By: **3xjn**
+- Hosted By **Medieval Apple**
