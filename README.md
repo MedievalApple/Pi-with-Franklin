@@ -8,10 +8,7 @@ Welcome to Pi with Franklin - a fun and educational game where you can explore t
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -33,3 +30,8 @@ Have you ever wanted to explore the mysteries of Pi in a interactive and engagin
 4. Keep refining your approach until you hit the desired digit.
 
 Are you up for the challenge? Test your mathematical prowess and have fun while exploring the infinite world of Pi!
+
+## Contributing
+
+Written By: **3xjn**
+Hosted By **Medieval Apple**
