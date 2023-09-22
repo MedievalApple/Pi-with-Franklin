@@ -1,0 +1,34 @@
+<!-- pi with franklin -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- use style.css -->
+        <link rel="stylesheet" href="./style.css" />
+        <title>pi with franklin</title>
+        <link rel="icon" href="franken.gif" type="image/gif" sizes="256x256">
+    </head>
+    <body>
+        <div class="outputs">
+            <span class="pi-output">3.14</span>
+            <span class="const-output">constant: </span>
+            <span class="precision-output">precision: </span>
+        </div>
+        <div class="counter-container">
+            <div class="constant-arrows">
+                <!-- button with down arrow symbol -->
+                <button class="decrease-constant"><img style="rotate: 90deg" src=arrow.png>decrease constant</button>
+                <!-- button with up arrow symbol -->
+                <button class="increase-constant"><img style="rotate: -90deg" src=arrow.png>increase constant</button>
+            </div>
+        </div>
+        <div class="precision-arrows">
+            <!-- button with left arrow symbol -->
+            <button class="decrease-precision"><img style="rotate: 90deg" src=arrow.png>decrease precision</button>
+            <!-- button with right arrow symbol -->
+            <button class="increase-precision"><img style="rotate: -90deg" src=arrow.png>increase precision</button>
+        </div>
+    </body>
+    
+    <script src="./index.js"></script>
+    <footer>im franklin<img src="fish.gif"></footer>
+</html>
