@@ -2,4 +2,4 @@
 
 **A game about pi with franklin.**
 
-**Play Here --> https://rally.medievalapple.net/**
+**Play Here --> https://pi.medievalapple.net/**
