@@ -1,2 +1,2 @@
 # Pi-with-Franklin
-A game about Pi
+A game about Pi with Franklin.
